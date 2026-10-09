@@ -1,0 +1,6 @@
+{
+  "name": "ModelForge AI",
+  "description": "An End-to-End Full-Stack Machine Learning Platform for Dataset Upload, Data Analysis, Model Training, Hyperparameter Tuning, Prediction, and Performance Evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,141 @@
+Student_ID,CGPA,Internships,Projects,Workshops_Attended,Aptitude_Test_Score,Soft_Skills_Rating,Extracurricular_Activities,Academic_Stream,Placement_Status
+STU_1000,7.11,3,4,0,77.0,3.5,No,Information Technology,Placed
+STU_1001,9.59,0,2,4,78.0,4.1,No,Electronics,Placed
+STU_1002,8.65,1,2,4,85.0,2.1,Yes,Mechanical,Placed
+STU_1003,8.07,1,1,1,79.0,4.4,No,Mechanical,Placed
+STU_1004,6.17,0,3,1,45.0,3.9,No,Information Technology,Not Placed
+STU_1005,,0,1,1,65.0,2.2,Yes,Mechanical,Not Placed
+STU_1006,5.75,1,2,4,92.0,4.6,Yes,Mechanical,Placed
+STU_1007,9.22,1,2,2,50.0,4.8,No,Information Technology,Placed
+STU_1008,8.08,0,2,4,72.0,2.2,No,Electronics,Not Placed
+STU_1009,8.54,0,3,2,61.0,2.8,No,Mechanical,Placed
+STU_1010,5.59,3,1,2,49.0,4.4,No,Mechanical,Not Placed
+STU_1011,9.67,0,1,1,75.0,4.2,No,Mechanical,Placed
+STU_1012,9.08,0,4,3,49.0,2.6,Yes,Computer Science,Placed
+STU_1013,6.41,1,2,0,82.0,2.6,Yes,Information Technology,Placed
+STU_1014,6.28,3,1,1,47.0,3.1,Yes,Computer Science,Not Placed
+STU_1015,6.29,0,2,1,97.0,3.5,No,Information Technology,Placed
+STU_1016,6.81,1,3,3,67.0,3.9,Yes,Electronics,Placed
+STU_1017,7.76,2,2,0,81.0,3.1,No,Electronics,Placed
+STU_1018,7.36,0,3,4,97.0,,No,Mechanical,Placed
+STU_1019,6.75,2,1,4,81.0,4.2,No,Information Technology,Placed
+STU_1020,8.13,1,1,1,54.0,2.1,Yes,Electronics,Placed
+STU_1021,6.1,1,2,0,54.0,2.8,No,Information Technology,Not Placed
+STU_1022,6.76,1,2,1,63.0,4.1,Yes,Electronics,Placed
+STU_1023,7.08,1,3,2,61.0,4.7,No,Computer Science,Placed
+STU_1024,7.46,0,3,1,65.0,3.5,Yes,Electronics,Placed
+STU_1025,8.88,2,5,1,58.0,3.6,Yes,Computer Science,Placed
+STU_1026,6.36,1,2,4,53.0,2.3,No,Electronics,Not Placed
+STU_1027,7.71,0,2,4,90.0,3.3,Yes,Mechanical,Placed
+STU_1028,8.05,0,3,4,45.0,3.6,Yes,Computer Science,Placed
+STU_1029,5.7,1,2,2,95.0,2.7,No,Electronics,Placed
+STU_1030,8.11,1,2,4,89.0,2.8,No,Mechanical,Placed
+STU_1031,6.23,0,1,0,57.0,3.1,No,Computer Science,Not Placed
+STU_1032,5.78,1,1,3,48.0,2.1,No,Mechanical,Not Placed
+STU_1033,9.58,0,5,0,45.0,3.0,No,Information Technology,Placed
+STU_1034,9.65,1,4,0,93.0,2.6,,Information Technology,Placed
+STU_1035,8.98,0,3,4,84.0,3.0,Yes,Computer Science,Placed
+STU_1036,6.81,1,2,3,76.0,2.4,Yes,Electronics,Placed
+STU_1037,5.92,1,1,3,78.0,4.7,No,Computer Science,Not Placed
+STU_1038,8.44,3,1,3,72.0,3.8,No,Mechanical,Placed
+STU_1039,7.39,0,2,2,75.0,4.0,Yes,Electronics,Placed
+STU_1040,6.02,1,2,4,52.0,4.4,No,Information Technology,Not Placed
+STU_1041,7.63,0,3,3,83.0,3.5,No,Electronics,Placed
+STU_1042,5.65,3,3,2,70.0,2.3,Yes,Information Technology,Placed
+STU_1043,9.41,2,2,1,78.0,3.6,No,Electronics,Placed
+STU_1044,6.61,0,5,1,47.0,3.8,No,Electronics,Not Placed
+STU_1045,8.35,1,3,2,94.0,4.2,No,Electronics,Placed
+STU_1046,6.84,2,3,2,56.0,3.3,Yes,Mechanical,Placed
+STU_1047,7.74,1,3,4,45.0,2.4,No,Mechanical,Placed
+STU_1048,7.85,1,2,4,88.0,2.9,No,Computer Science,Placed
+STU_1049,6.29,0,2,1,49.0,3.1,No,Computer Science,Not Placed
+STU_1050,9.67,0,2,3,74.0,3.9,No,Information Technology,Placed
+STU_1051,8.83,2,3,1,74.0,3.7,No,Mechanical,Placed
+STU_1052,9.54,3,1,3,,3.1,No,Information Technology,Placed
+STU_1053,9.35,1,1,3,92.0,5.0,Yes,Computer Science,Placed
+STU_1054,8.07,1,1,4,91.0,3.8,No,Information Technology,Placed
+STU_1055,9.46,1,1,0,67.0,2.7,No,Computer Science,Placed
+STU_1056,5.88,2,4,0,59.0,2.3,Yes,Mechanical,Placed
+STU_1057,6.34,2,3,2,81.0,2.5,No,Electronics,Placed
+STU_1058,5.69,2,2,4,65.0,2.7,No,Mechanical,Not Placed
+STU_1059,6.9,2,1,3,58.0,2.5,No,Information Technology,Not Placed
+STU_1060,7.17,1,2,0,46.0,2.6,No,Information Technology,Not Placed
+STU_1061,6.67,0,2,3,55.0,2.9,Yes,Mechanical,Not Placed
+STU_1062,9.06,0,1,0,95.0,2.5,No,Mechanical,Placed
+STU_1063,7.03,2,2,0,83.0,4.7,No,Computer Science,Placed
+STU_1064,6.71,1,2,0,82.0,2.2,Yes,Information Technology,Placed
+STU_1065,7.83,0,3,4,78.0,3.6,No,Information Technology,Placed
+STU_1066,6.11,0,3,1,82.0,3.2,No,Mechanical,Not Placed
+STU_1067,8.95,1,1,3,94.0,4.9,No,Electronics,Placed
+STU_1068,5.82,0,2,4,78.0,2.3,No,Information Technology,Not Placed
+STU_1069,9.74,0,3,4,62.0,3.2,Yes,Electronics,Placed
+STU_1070,8.82,1,2,4,74.0,4.9,Yes,Mechanical,Placed
+STU_1071,6.35,1,4,4,59.0,4.6,Yes,Mechanical,Placed
+STU_1072,5.52,1,3,4,71.0,4.5,No,Computer Science,Not Placed
+STU_1073,9.01,0,1,2,95.0,2.8,Yes,Information Technology,Placed
+STU_1074,8.54,2,1,3,78.0,2.5,Yes,Electronics,Placed
+STU_1075,8.63,0,3,4,96.0,4.0,Yes,Computer Science,Placed
+STU_1076,8.82,1,1,3,82.0,4.8,No,Information Technology,Placed
+STU_1077,5.82,2,3,2,77.0,3.7,No,Computer Science,Placed
+STU_1078,7.04,1,4,2,68.0,3.7,Yes,Mechanical,Placed
+STU_1079,6.0,2,3,3,59.0,2.8,Yes,Information Technology,Placed
+STU_1080,9.21,1,2,0,74.0,4.3,No,Computer Science,Placed
+STU_1081,8.18,1,3,1,86.0,2.6,No,Computer Science,Placed
+STU_1082,6.92,0,2,0,95.0,3.0,Yes,Electronics,Placed
+STU_1083,5.77,1,2,0,61.0,3.3,No,Computer Science,Not Placed
+STU_1084,6.84,0,4,0,49.0,3.5,Yes,Information Technology,Not Placed
+STU_1085,6.9,0,2,4,73.0,2.7,Yes,Information Technology,Not Placed
+STU_1086,8.64,3,5,2,48.0,2.3,No,Electronics,Placed
+STU_1087,8.24,1,4,0,54.0,3.8,Yes,Information Technology,Placed
+STU_1088,9.32,2,1,2,61.0,2.9,No,Mechanical,Placed
+STU_1089,7.53,1,1,3,54.0,3.7,Yes,Information Technology,Placed
+STU_1090,6.01,2,1,1,61.0,2.5,No,Information Technology,Not Placed
+STU_1091,8.57,1,1,3,64.0,3.4,No,Computer Science,Placed
+STU_1092,8.77,1,1,3,68.0,3.6,Yes,Computer Science,Placed
+STU_1093,7.91,1,3,4,49.0,2.2,No,Information Technology,Placed
+STU_1094,8.82,0,1,1,78.0,3.0,Yes,Electronics,Placed
+STU_1095,7.62,2,2,3,50.0,2.4,No,Computer Science,Placed
+STU_1096,7.75,0,4,3,97.0,2.2,Yes,Electronics,Placed
+STU_1097,7.34,0,1,1,46.0,5.0,Yes,Information Technology,Not Placed
+STU_1098,5.61,1,4,1,57.0,3.0,Yes,Information Technology,Not Placed
+STU_1099,5.96,0,2,3,87.0,4.4,No,Mechanical,Not Placed
+STU_1100,5.64,3,1,1,87.0,2.8,No,Computer Science,Placed
+STU_1101,8.24,3,3,3,92.0,4.0,No,Information Technology,Placed
+STU_1102,6.85,3,3,3,55.0,4.3,Yes,Mechanical,Placed
+STU_1103,7.69,1,4,4,95.0,3.8,No,Computer Science,Placed
+STU_1104,9.4,0,3,0,91.0,3.4,Yes,Information Technology,Placed
+STU_1105,6.57,3,4,3,67.0,3.2,No,Information Technology,Placed
+STU_1106,7.26,1,2,2,60.0,3.0,Yes,Computer Science,Placed
+STU_1107,8.75,3,1,0,75.0,4.8,Yes,Computer Science,Placed
+STU_1108,6.48,3,3,0,55.0,4.5,Yes,Computer Science,Placed
+STU_1109,5.83,2,4,0,60.0,4.9,No,Information Technology,Placed
+STU_1110,6.75,0,5,4,52.0,2.4,No,Information Technology,Placed
+STU_1111,6.19,1,2,3,48.0,4.2,Yes,Mechanical,Not Placed
+STU_1112,9.5,2,2,4,84.0,4.8,No,Electronics,Placed
+STU_1113,8.97,1,3,3,48.0,2.5,No,Computer Science,Placed
+STU_1114,8.22,0,2,4,69.0,2.2,No,Information Technology,Placed
+STU_1115,9.25,1,4,4,47.0,4.2,Yes,Information Technology,Placed
+STU_1116,8.96,3,4,2,76.0,3.7,Yes,Computer Science,Placed
+STU_1117,6.3,1,2,4,47.0,4.5,No,Electronics,Not Placed
+STU_1118,9.34,1,3,1,71.0,2.4,Yes,Computer Science,Placed
+STU_1119,7.82,0,3,2,73.0,4.4,Yes,Electronics,Placed
+STU_1120,8.97,1,1,4,76.0,2.6,No,Information Technology,Placed
+STU_1121,9.35,3,4,0,94.0,2.5,No,Electronics,Placed
+STU_1122,6.87,0,2,1,95.0,2.5,Yes,Mechanical,Placed
+STU_1123,5.97,1,4,1,63.0,4.4,Yes,Information Technology,Placed
+STU_1124,6.48,2,2,1,65.0,4.0,No,Mechanical,Placed
+STU_1125,7.34,2,4,2,49.0,3.6,Yes,Computer Science,Placed
+STU_1126,9.02,1,2,4,62.0,3.1,Yes,Computer Science,Placed
+STU_1127,9.2,2,1,4,72.0,4.6,Yes,Computer Science,Placed
+STU_1128,5.53,1,4,0,86.0,3.2,No,Electronics,Not Placed
+STU_1129,7.7,0,1,0,66.0,4.4,No,Information Technology,Not Placed
+STU_1130,7.29,2,2,1,65.0,3.3,Yes,Computer Science,Placed
+STU_1131,6.46,2,5,0,50.0,3.1,Yes,Computer Science,Placed
+STU_1132,6.02,2,5,2,45.0,3.4,Yes,Information Technology,Placed
+STU_1133,6.95,3,3,4,49.0,2.9,No,Computer Science,Placed
+STU_1134,9.55,1,3,1,85.0,4.2,Yes,Mechanical,Placed
+STU_1135,6.89,1,2,0,56.0,3.5,Yes,Information Technology,Placed
+STU_1136,7.73,2,2,2,70.0,2.7,No,Information Technology,Placed
+STU_1137,8.52,1,2,2,90.0,4.7,Yes,Information Technology,Placed
+STU_1138,7.06,2,3,0,78.0,3.2,No,Mechanical,Placed
+STU_1139,9.68,2,3,4,93.0,3.6,Yes,Information Technology,Placed

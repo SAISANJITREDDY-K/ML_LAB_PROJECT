@@ -1,0 +1,350 @@
+{
+  "model_id": "mod_f6b1866ec9",
+  "name": "Linear Regression - House Price Benchmark",
+  "dataset_id": "ds_house_prices",
+  "dataset_name": "House Price Benchmark",
+  "task_type": "regression",
+  "algorithm": "linear_regression",
+  "algorithm_name": "Linear Regression",
+  "target_col": "Price_Lakhs",
+  "selected_features": [
+    "Area_SqFt",
+    "Bedrooms",
+    "Location_Tier"
+  ],
+  "feature_count": 3,
+  "test_size": 0.2,
+  "random_state": 42,
+  "num_impute": "median",
+  "cat_impute": "most_frequent",
+  "scale_numeric": true,
+  "enable_tuning": false,
+  "cv_folds": 5,
+  "scoring_metric": null,
+  "best_params": {},
+  "best_cv_score": null,
+  "cv_results_summary": [],
+  "tuning_duration": 0.0,
+  "training_duration": 0.016,
+  "stratified_used": false,
+  "created_at": "2026-10-09 10:00:47",
+  "metrics": {
+    "train_mae": 8.51,
+    "test_mae": 7.2727,
+    "train_mse": 116.4581,
+    "test_mse": 91.2554,
+    "train_rmse": 10.7916,
+    "test_rmse": 9.5528,
+    "train_r2": 0.9575,
+    "test_r2": 0.9584,
+    "actual_vs_predicted": [
+      {
+        "actual": 62.75,
+        "predicted": 60.673
+      },
+      {
+        "actual": 76.25,
+        "predicted": 91.302
+      },
+      {
+        "actual": 129.33,
+        "predicted": 133.087
+      },
+      {
+        "actual": 182.85,
+        "predicted": 184.013
+      },
+      {
+        "actual": 181.62,
+        "predicted": 180.809
+      },
+      {
+        "actual": 150.48,
+        "predicted": 142.377
+      },
+      {
+        "actual": 66.29,
+        "predicted": 63.698
+      },
+      {
+        "actual": 132.06,
+        "predicted": 160.57
+      },
+      {
+        "actual": 98.4,
+        "predicted": 84.374
+      },
+      {
+        "actual": 206.81,
+        "predicted": 209.495
+      },
+      {
+        "actual": 104.17,
+        "predicted": 105.037
+      },
+      {
+        "actual": 132.86,
+        "predicted": 143.223
+      },
+      {
+        "actual": 120.9,
+        "predicted": 122.2
+      },
+      {
+        "actual": 136.51,
+        "predicted": 143.086
+      },
+      {
+        "actual": 157.48,
+        "predicted": 162.163
+      },
+      {
+        "actual": 113.01,
+        "predicted": 116.692
+      },
+      {
+        "actual": 67.88,
+        "predicted": 51.087
+      },
+      {
+        "actual": 119.58,
+        "predicted": 128.774
+      },
+      {
+        "actual": 226.2,
+        "predicted": 219.569
+      },
+      {
+        "actual": 139.56,
+        "predicted": 146.234
+      },
+      {
+        "actual": 135.25,
+        "predicted": 140.66
+      },
+      {
+        "actual": 152.04,
+        "predicted": 157.092
+      },
+      {
+        "actual": 188.35,
+        "predicted": 187.728
+      },
+      {
+        "actual": 155.57,
+        "predicted": 147.826
+      },
+      {
+        "actual": 89.59,
+        "predicted": 77.995
+      },
+      {
+        "actual": 136.4,
+        "predicted": 133.695
+      },
+      {
+        "actual": 96.06,
+        "predicted": 106.709
+      },
+      {
+        "actual": 255.35,
+        "predicted": 241.029
+      }
+    ],
+    "residual_points": [
+      {
+        "predicted": 60.673,
+        "residual": 2.077
+      },
+      {
+        "predicted": 91.302,
+        "residual": -15.052
+      },
+      {
+        "predicted": 133.087,
+        "residual": -3.757
+      },
+      {
+        "predicted": 184.013,
+        "residual": -1.163
+      },
+      {
+        "predicted": 180.809,
+        "residual": 0.811
+      },
+      {
+        "predicted": 142.377,
+        "residual": 8.103
+      },
+      {
+        "predicted": 63.698,
+        "residual": 2.592
+      },
+      {
+        "predicted": 160.57,
+        "residual": -28.51
+      },
+      {
+        "predicted": 84.374,
+        "residual": 14.026
+      },
+      {
+        "predicted": 209.495,
+        "residual": -2.685
+      },
+      {
+        "predicted": 105.037,
+        "residual": -0.867
+      },
+      {
+        "predicted": 143.223,
+        "residual": -10.363
+      },
+      {
+        "predicted": 122.2,
+        "residual": -1.3
+      },
+      {
+        "predicted": 143.086,
+        "residual": -6.576
+      },
+      {
+        "predicted": 162.163,
+        "residual": -4.683
+      },
+      {
+        "predicted": 116.692,
+        "residual": -3.682
+      },
+      {
+        "predicted": 51.087,
+        "residual": 16.793
+      },
+      {
+        "predicted": 128.774,
+        "residual": -9.194
+      },
+      {
+        "predicted": 219.569,
+        "residual": 6.631
+      },
+      {
+        "predicted": 146.234,
+        "residual": -6.674
+      },
+      {
+        "predicted": 140.66,
+        "residual": -5.41
+      },
+      {
+        "predicted": 157.092,
+        "residual": -5.052
+      },
+      {
+        "predicted": 187.728,
+        "residual": 0.622
+      },
+      {
+        "predicted": 147.826,
+        "residual": 7.744
+      },
+      {
+        "predicted": 77.995,
+        "residual": 11.595
+      },
+      {
+        "predicted": 133.695,
+        "residual": 2.705
+      },
+      {
+        "predicted": 106.709,
+        "residual": -10.649
+      },
+      {
+        "predicted": 241.029,
+        "residual": 14.321
+      }
+    ],
+    "residual_distribution": [
+      {
+        "bin": "-28.51 to -23.98",
+        "count": 1
+      },
+      {
+        "bin": "-23.98 to -19.45",
+        "count": 0
+      },
+      {
+        "bin": "-19.45 to -14.92",
+        "count": 1
+      },
+      {
+        "bin": "-14.92 to -10.39",
+        "count": 1
+      },
+      {
+        "bin": "-10.39 to -5.86",
+        "count": 4
+      },
+      {
+        "bin": "-5.86 to -1.33",
+        "count": 6
+      },
+      {
+        "bin": "-1.33 to 3.2",
+        "count": 8
+      },
+      {
+        "bin": "3.2 to 7.73",
+        "count": 1
+      },
+      {
+        "bin": "7.73 to 12.26",
+        "count": 3
+      },
+      {
+        "bin": "12.26 to 16.79",
+        "count": 3
+      }
+    ],
+    "prediction_time": 0.0059
+  },
+  "schema": {
+    "selected_features": [
+      "Area_SqFt",
+      "Bedrooms",
+      "Location_Tier"
+    ],
+    "numeric_features": [
+      "Area_SqFt",
+      "Bedrooms"
+    ],
+    "categorical_features": [
+      "Location_Tier"
+    ],
+    "feature_details": {
+      "Area_SqFt": {
+        "type": "numeric",
+        "min": 771.0,
+        "max": 4166.0,
+        "median": 2547.5
+      },
+      "Bedrooms": {
+        "type": "numeric",
+        "min": 1.0,
+        "max": 5.0,
+        "median": 3.0
+      },
+      "Location_Tier": {
+        "type": "categorical",
+        "options": [
+          "Tier-2",
+          "Tier-1",
+          "Tier-3"
+        ],
+        "default": "Tier-2"
+      }
+    }
+  },
+  "warnings": []
+}

@@ -1,0 +1,83 @@
+{
+  "ds_student_placement": {
+    "id": "ds_student_placement",
+    "filename": "custom_student_placement_classification.csv",
+    "name": "Student Placement Benchmark",
+    "rows": 140,
+    "columns": 10,
+    "suggested_task": "classification",
+    "suggested_target": "Placement_Status",
+    "exclude_columns": [
+      "Student_ID"
+    ],
+    "created_at": "Benchmark Dataset"
+  },
+  "ds_house_prices": {
+    "id": "ds_house_prices",
+    "filename": "custom_house_price_regression.csv",
+    "name": "House Price Benchmark",
+    "rows": 137,
+    "columns": 9,
+    "suggested_task": "regression",
+    "suggested_target": "Price_Lakhs",
+    "exclude_columns": [
+      "Property_ID"
+    ],
+    "created_at": "Benchmark Dataset"
+  },
+  "ds_028fca92a2": {
+    "id": "ds_028fca92a2",
+    "filename": "test_valid.csv",
+    "name": "Test Valid",
+    "rows": 4,
+    "columns": 4,
+    "suggested_task": "classification",
+    "suggested_target": "target",
+    "exclude_columns": [],
+    "created_at": "User Upload"
+  },
+  "ds_92a0a1279e": {
+    "id": "ds_92a0a1279e",
+    "filename": "test_valid.csv",
+    "name": "Test Valid",
+    "rows": 4,
+    "columns": 4,
+    "suggested_task": "classification",
+    "suggested_target": "target",
+    "exclude_columns": [],
+    "created_at": "User Upload"
+  },
+  "ds_7db7350bb1": {
+    "id": "ds_7db7350bb1",
+    "filename": "test_valid.csv",
+    "name": "Test Valid",
+    "rows": 4,
+    "columns": 4,
+    "suggested_task": "classification",
+    "suggested_target": "target",
+    "exclude_columns": [],
+    "created_at": "User Upload"
+  },
+  "ds_98891ee670": {
+    "id": "ds_98891ee670",
+    "filename": "test_valid.csv",
+    "name": "Test Valid",
+    "rows": 4,
+    "columns": 4,
+    "suggested_task": "classification",
+    "suggested_target": "target",
+    "exclude_columns": [],
+    "created_at": "User Upload"
+  },
+  "ds_6236132ba2": {
+    "id": "ds_6236132ba2",
+    "filename": "test_dups.csv",
+    "name": "Test Dups",
+    "rows": 3,
+    "columns": 3,
+    "suggested_task": "classification",
+    "suggested_target": "target",
+    "exclude_columns": [],
+    "created_at": "User Upload"
+  }
+}
